@@ -1,5 +1,7 @@
 # Find My Coso - Firebase Edition
 
+_NB: La server edition è stata fatta dopo pertanto molte cose sono state sistemate lì o con nuove e diverse implementazioni, sarebbe da aggiornare la versione con Firebase ma sono pigro._
+
 _Find My Coso_ è un progetto di Laurea Triennale finalizzato per la stesura di un elaborato finale (tesi).
 Il progetto è comprovato e convalidato dal docente relatore **Fabrizio Romano**, dell'**Università Ca' Foscari di Venezia**.
 
