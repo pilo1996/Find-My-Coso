@@ -8,8 +8,8 @@ Il progetto è comprovato e convalidato dal docente relatore **Fabrizio Romano**
 ## Overview del progetto
 Lo scopo del progetto è di fornire un servizio di geolocalizzazione da remoto dei propri (e non) dispositivi **Android**.
 Dal punto di vista dell'utente finale, _Find My Coso_ è un servizio costituito da due parti:
-* Un **sito web**, che permette di effettuare la registrazione dell'utenza, visualizzare lo storico delle posizioni per città, e visualizzare sulla mappa la posizione attuale del dispositivo android. (TODO)
-* Un'**applicazione Android**, che permetterà anche'essa la registrazione dell'utenza e l'accesso, consultare lo storico, fornire la posizione attuale (anche quando l'app è in background) e gestire l'uso dei QR (scanner di qr dei dispositivi altrui, dandone però una posizione approssimativa, privacy ndr). (Quasi finita)
+* Un **sito web**, che permette di effettuare la registrazione dell'utenza, visualizzare lo storico delle posizioni per città, e visualizzare sulla mappa la posizione attuale del dispositivo android. (in beta)
+* Un'**applicazione Android**, che permetterà anche'essa la registrazione dell'utenza e l'accesso, consultare lo storico, fornire la posizione attuale (anche quando l'app è in background) e gestire l'uso dei QR (scanner di qr dei dispositivi altrui, dandone però una posizione approssimativa, privacy ndr).
 
 ## Realizzazione
 Verranno utilizzati software come **Android Studio**, **PHPStorm**, e servizi SaaS come **Firebase**.
