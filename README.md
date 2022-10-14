@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/pilo1996/find-my-coso/badge)](https://www.codefactor.io/repository/github/pilo1996/find-my-coso)
+
 # Find My Coso - Firebase Edition
 Android app based on Google Firebase
 
